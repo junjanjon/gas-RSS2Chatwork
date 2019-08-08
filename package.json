@@ -59,7 +59,7 @@
     ]
   },
   "dependencies": {
-    "@types/node": "^12.6.9",
+    "@types/node": "^12.7.1",
     "npm": "^6.10.2",
     "merge": ">=1.2.1",
     "randomatic": ">=3.0.0"
