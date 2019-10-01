@@ -35,9 +35,9 @@
     "jest": "^24.9.0",
     "prettier": "^1.18.2",
     "rimraf": "^3.0.0",
-    "ts-jest": "^24.0.2",
-    "ts-loader": "^6.0.4",
-    "tslint": "^5.18.0",
+    "ts-jest": "^24.1.0",
+    "ts-loader": "^6.2.0",
+    "tslint": "^5.20.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.0.1",
     "typescript": "^3.6.3",
@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@types/node": "^12.7.2",
-    "npm": "^6.11.2",
+    "npm": "^6.11.3",
     "merge": ">=1.2.1",
     "randomatic": ">=3.0.0"
   }
