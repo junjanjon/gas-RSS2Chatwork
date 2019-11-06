@@ -27,7 +27,7 @@
   "homepage": "https://github.com/kemsakurai/gas-RSS2Chatwork#readme",
   "devDependencies": {
     "@types/google-apps-script": "1.0.0",
-    "@types/jest": "^24.0.21",
+    "@types/jest": "^24.0.22",
     "cpx": "^1.5.0",
     "gas-webpack-plugin": "^1.0.2",
     "html-loader": "^0.5.5",
@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@types/node": "^12.11.7",
-    "npm": "^6.12.1",
+    "npm": "^6.13.0",
     "merge": ">=1.2.1",
     "randomatic": ">=3.0.0"
   }
